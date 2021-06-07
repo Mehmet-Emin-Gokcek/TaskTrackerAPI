@@ -7,7 +7,7 @@ https://tasktrackerapi2.azurewebsites.net/
 
 - GET Request&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;.../api/Tasks &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;Get all Tasks
 - GET Request&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;.../api/Tasks/3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;Get a Task with Id = 3
-- GET Request&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;.../api/Tasks/ama &nbsp;&nbsp;=> &nbsp;&nbsp;&nbsp;Get a Task whose name includes 'ama' (Search function)
+- GET Request&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;.../api/Tasks/ama &nbsp;&nbsp;=> &nbsp;&nbsp;&nbsp;Get a Task whose description includes 'ama' (Search function)
 - POST Request&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;.../api/Tasks &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;Creates a new Task
 - PUT Request&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;.../api/Tasks/1 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;Updates a Tasks with Id = 3
 - DELETE Request&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;.../api/Tasks/1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;Deletes a Task with Id = 3
